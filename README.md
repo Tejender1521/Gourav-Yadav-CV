@@ -1,4 +1,4 @@
-# MyFirstCV
-HELLO ITS TEJENDER HERE!!
+# CV
+HELLO ITS Gourav Yadav HERE!!
 THIS IS MY CV 
 
